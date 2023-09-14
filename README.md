@@ -1,6 +1,18 @@
 ### Hi I'm HyunJin👋
 
 ### 💪skills
+| back-end | Front-end | Database | IDE | Comunication | Management |
+|----------|----------|----------|----------|----------|----------|
+| 데이터 1  | 데이터 2  | 데이터 3  | 데이터 1  | 데이터 2  | 데이터 3  |
+| 데이터 2  | 데이터 5  | 데이터 6  | 데이터 2  | 데이터 5  | 데이터 6  |
+| 데이터 3  | 데이터 2  | 데이터 3  | 데이터 2  | 데이터 5  | 데이터 6  |
+| 데이터 4  | 데이터 5  | 데이터 6  | 데이터 2  | 데이터 5  | 데이터 6  |
+| 데이터 2  | 데이터 5  | 데이터 6  | 데이터 2  | 데이터 5  | 데이터 6  |
+| 데이터 3  | 데이터 2  | 데이터 3  | 데이터 2  | 데이터 5  | 데이터 6  |
+| 데이터 4  | 데이터 5  | 데이터 6  | 데이터 2  | 데이터 5  | 데이터 6  |
+
+
+
 ### back-end
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
