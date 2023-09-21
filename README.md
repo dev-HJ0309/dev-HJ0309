@@ -1,9 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=280&section=header&text=Hyunjin_Joo&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-HJ0309)](https://hits.seeyoufarm.com) 
+
 <h3 align="center">Hi! I'm Hyunjin </h3>
 <p align="center">
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.jhj0309@gmail.com)](mailto:dev.jhj0309@gmail.com)&nbsp
-<a href="[https://dev-imoong.notion.site/de63e297c5e04ea9a16c7a07e11fcfcb?pvs=4](https://www.notion.so/2e94d289c9de4043a107998cf909e389?pvs=4)](https://www.notion.so/2e94d289c9de4043a107998cf909e389?pvs=4)"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
+  <a href="dev.jhj0309@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.jhj0309@gmail.com)](mailto:dev.jhj0309@gmail.com)"/></a>&nbsp
+<a href="[https://dev-hyun.notion.site/ac0eda182a24408994db0b343c353826](https://www.notion.so/2e94d289c9de4043a107998cf909e389)?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
+
 <h4 align="center"> </h4>
 <br>
 
