@@ -8,8 +8,9 @@
 </div>
 
 <div align=center>
+<h3 align="center">Hi! I'm Hyunjin </h3>
+<p align="center">
 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza) 
 [![Notion Badge](https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"&link=https://www.instagram.com/data.scientist/)](https://www.notion.so/2e94d289c9de4043a107998cf909e389/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.jhj0309@gmail.com)](mailto:dev.jhj0309@gmail.com)
 </div>
