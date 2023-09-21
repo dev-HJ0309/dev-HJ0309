@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=280&section=header&text=Hyunjin_Joo&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
+<h3 align="center">Today✌️ </h3>
+<p align="center">
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-HJ0309)](https://hits.seeyoufarm.com) 
+
 
 <h3 align="center">Hi! I'm Hyunjin </h3>
 <p align="center">
