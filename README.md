@@ -25,7 +25,7 @@
 <h2 align="center">status🛠️</h2>
 <p align="center"> 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username={dev-HJ0309})](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=dev-HJ0309)](https://github.com/anuraghazra/github-readme-stats)
 
 
   
